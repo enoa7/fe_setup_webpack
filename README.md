@@ -1,2 +1,2 @@
-# fe_setup_webpack
+# Front End Setup with Webpack
 FE minimum setup for webpack
